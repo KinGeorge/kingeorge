@@ -21,9 +21,7 @@
 
 ![Python](https://img.shields.io/badge/-Python-192133?style=flat-square&logo=python&logoColor=white)
 ![Numpy](https://img.shields.io/badge/-Numpy-192133?style=flat-square&logo=numpy&logoColor=white)
-![scikitlearn](https://img.shields.io/badge/-Scikit-Learn-192133?style=flat-square&logo=scikitlearn&logoColor=white)
 ![Pytorch](https://img.shields.io/badge/-Pytorch-192133?style=flat-square&logo=pytorch&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-192133?style=flat-square&logo=pandas&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-192133?style=flat-square&logo=jupyter&logoColor=white)
 
 ![C](https://img.shields.io/badge/-C-192133?style=flat-square&logo=c&logoColor=white)
