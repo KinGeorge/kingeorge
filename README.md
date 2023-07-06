@@ -7,7 +7,10 @@ I'm **George Sun**, a student who is into computer vision and multi-modal learni
 - 🏖️ Senior Undergraduate.
 - ✨ Interseted in a variety of things.
 - 💬 Feel free to ask me about anyting.
-  
+<div align="center">
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/:badgeContent?style=for-the-badge&logo=python" />
+</div>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=kingeorge&count_private=true&show_icons=true&theme=dark" />
 </a>
