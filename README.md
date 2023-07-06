@@ -1,4 +1,13 @@
+## Welcome! Here is George's Kindom 🌠
 
+I'm **George Sun**, a student who is into computer vision and multi-modal learning.
+
+- 👋 You can call me **George** or **Georgie**.
+- 🌏 Mainly use **English** and **Chinese**. Also planning to learn **Spanish**.
+- 🏖️ Senior Undergraduate.
+- ✨ Interseted in a variety of things.
+- 💬 Feel free to ask me about anyting.
+  
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=kingeorge&count_private=true&show_icons=true&theme=dark" />
 </a>
