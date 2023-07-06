@@ -18,6 +18,18 @@ I'm **George Sun**, a student who is into computer vision and multi-modal learni
 ### Technology Stack
 
 <div align="center">
+  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/MacOS-000000?style=for-the-badge&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=win&logoColor=white" />
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
+</div>
+
+<div align="center">
   <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
