@@ -7,10 +7,7 @@ I'm **George Sun**, a student who is into computer vision and multi-modal learni
 - 🏖️ Senior Undergraduate.
 - ✨ Interseted in a variety of things.
 - 💬 Feel free to ask me about anyting.
-<div align="center">
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/:badgeContent?style=for-the-badge&logo=python" />
-</div>
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=kingeorge&count_private=true&show_icons=true&theme=dark" />
 </a>
@@ -18,8 +15,14 @@ I'm **George Sun**, a student who is into computer vision and multi-modal learni
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kingeorge&langs_count=8&theme=dark&count_private=true&layout=compact&hide=javascript,html,css,CoffeeScript&card_width=300" />
 </a>
 
+### Technology Stack
 
-### 技术栈
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
+</div>
+
 ![Linux](https://img.shields.io/badge/-Linux-192133?style=flat-square&logo=Linux&logoColor=white)
 ![MacOS](https://img.shields.io/badge/-MacOS-192133?style=flat-square&logo=macos&logoColor=white)
 ![Win](https://img.shields.io/badge/-Win-192133?style=flat-square&logo=windows&logoColor=white)
