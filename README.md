@@ -3,7 +3,7 @@
 I'm **George Sun**, a student who is into computer vision and multi-modal learning.
 
 - 👋 You can call me **George** or **Georgie**.
-- 🌏 Mainly use **English** and **Chinese**. Also planning to learn **Spanish**.
+- 🌏 Mainly use **English** 🇬🇧 and **Chinese**🇨🇳. Also planning to learn **Spanish**🇪🇸 and **Japanese**🇯🇵.
 - 🏖️ Senior Undergraduate.
 - ✨ Interseted in a variety of things.
 - 💬 Feel free to ask me about anyting.
