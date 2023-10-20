@@ -1,11 +1,9 @@
 ## Welcome! Here is George's Kindom 🌠
 
-I'm **George Sun**, a student who is into computer vision and multi-modal learning.
+I'm **George Sun**, this is an more free account for **MOOCs** and also **intersting open source projects**.
 
 - 👋 You can call me **George** or **Georgie**.
 - 🌏 Mainly use **English**🇬🇧 and **Chinese**🇨🇳. Knows a little bit **Japanese**. Also planning to learn **Spanish**🇪🇸 and **French**🇫🇷.
-- 🏖️ Senior Undergraduate.
-- ✨ Interseted in a variety of things.
 - 💬 Feel free to ask me about anyting.
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
